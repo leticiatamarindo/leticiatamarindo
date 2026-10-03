@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=Olá,%20eu%20sou%20a%20Letícia!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-### 💻 Software Developer  ·  🎨 UX/UI Designer
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=8B7CF6&center=true&vCenter=true&width=750&lines=Software+Developer;UX%2FUI+Design+Enthusiast;Web+Development;Building+digital+experiences;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
@@ -46,10 +44,10 @@ Minha área de interesse está justamente na interseção entre **código e desi
 
 ### 🎨 UX/UI
 
-Prototipação
-Wireframes
-Design de interfaces
-Experiência do usuário
+Prototipação,
+Wireframes,
+Design de interfaces,
+Experiência do usuário,
 Figma
 
 </td>
@@ -58,10 +56,10 @@ Figma
 
 ### 💻 Development
 
-Front-end
-Back-end
-APIs
-Banco de dados
+Front-end,
+Back-end,
+APIs,
+Banco de dados,
 WordPress
 
 </td>
@@ -74,7 +72,7 @@ WordPress
 
 ## 🛠️ Tecnologias
 
-### 💻 Languages & Frameworks
+### Languages & Frameworks
 
 <div align="center">
 
@@ -82,7 +80,7 @@ WordPress
 
 </div>
 
-### 🗄️ Database & Tools
+### Database & Tools
 
 <div align="center">
 
@@ -90,7 +88,7 @@ WordPress
 
 </div>
 
-### 🎨 Design & Web
+### Design & Web
 
 <div align="center">
 
@@ -126,22 +124,22 @@ WordPress
 <div align="center">
 
 ```text
-TypeScript
+    TypeScript
     ↓
-Angular
+    Angular
     ↓
-Desenvolvimento Front-end
+    Desenvolvimento Front-end
     ↓
-UX/UI Design
+    UX/UI Design
     ↓
-Interfaces melhores + código melhor
+    Interfaces melhores + código melhor
 ```
 
 </div>
 
 Estou buscando fortalecer continuamente meus conhecimentos em:
 
-`TypeScript` · `Angular` · `JavaScript` · `UX/UI` · `APIs` · `Git`
+`TypeScript` · `Angular` · `JavaScript` · `UX/UI` · `APIs` · `Git` . `Design System`
 
 ---
 
