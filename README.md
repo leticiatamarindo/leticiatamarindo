@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=flat-square&color=6C63FF&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=leticiatamarindo&style=flat-square&color=6C63FF&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -100,15 +100,15 @@ WordPress
 
 <div align="center">
 
-<a href="LINK_DO_PROJETO_1">
+<a href="https://github.com/leticiatamarindo/Jogo-da-memoria">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=REPOSITORIO_1&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=leticiatamarindo&repo=REPOSITORIO_1&theme=tokyonight&hide_border=true"/>
 
 </a>
 
 <a href="LINK_DO_PROJETO_2">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=REPOSITORIO_2&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=leticiatamarindo&repo=REPOSITORIO_2&theme=tokyonight&hide_border=true"/>
 
 </a>
 
@@ -165,7 +165,7 @@ Estou buscando fortalecer continuamente meus conhecimentos em:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/leticiatamarindo/leticiatamarindo/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Seu_Nome/Seu_Nome/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
