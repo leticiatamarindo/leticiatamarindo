@@ -102,13 +102,13 @@ WordPress
 
 <a href="https://github.com/leticiatamarindo/Jogo-da-memoria">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=leticiatamarindo&repo=REPOSITORIO_1&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=leticiatamarindo&repo=Jogo-da-memoria&theme=tokyonight&hide_border=true"/>
 
 </a>
 
-<a href="LINK_DO_PROJETO_2">
+<a href="https://github.com/leticiatamarindo/DiaryApp">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=leticiatamarindo&repo=REPOSITORIO_2&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=leticiatamarindo&repo=DiaryApp&theme=tokyonight&hide_border=true"/>
 
 </a>
 
@@ -165,7 +165,7 @@ Estou buscando fortalecer continuamente meus conhecimentos em:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Seu_Nome/Seu_Nome/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/leticiatamarindo/leticiatamarindo/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -211,7 +211,7 @@ const developer = {
 
 <div align="center">
 
-<a href="www.linkedin.com/in/letícia-tamarindo-a46096246">
+<a href="https://www.linkedin.com/in/let%C3%ADcia-tamarindo-a46096246">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
