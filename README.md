@@ -1,40 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=Olá,%20eu%20sou%20a%20Letícia!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9B1B5A&height=180&section=header&animation=fadeIn&fontAlignY=38" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=100&pause=1000&color=C11C84&center=true&vCenter=true&width=750&lines=Let%C3%ADcia+Tamarindo&loop=false&delete=false" alt="Typing SVG" />
+
+</div>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=D4A72C&center=true&vCenter=true&width=750&lines=Software+Developer;UX%2FUI+Design+Enthusiast;Web+Development;Building+digital+experiences;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+
+</div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=8B7CF6&center=true&vCenter=true&width=750&lines=Software+Developer;UX%2FUI+Design+Enthusiast;Web+Development;Building+digital+experiences;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
-
-</div>
-
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=leticiatamarindo&style=flat-square&color=6C63FF&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=leticiatamarindo&style=flat-square&color=C11C84&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 👩‍💻 Sobre mim
+## Sobre mim
 
-Olá! Eu sou **Letícia**, desenvolvedora de software apaixonada por tecnologia, desenvolvimento web e criação de interfaces.
+Hi! I’m **Letícia**, a software developer passionate about technology, web development, and interface creation.
 
-Minha área de interesse está justamente na interseção entre **código e design**: gosto de entender como uma interface funciona por trás do código, mas também como ela é percebida e utilizada pelas pessoas.
-
-🎨 **UX/UI Design** — prototipação, wireframes, interfaces
-
-💻 **Desenvolvimento Web** — front-end e back-end
-
-🌐 **WordPress** — desenvolvimento e customização
-
-🧩 **Arquitetura e integração** — APIs, banco de dados e aplicações web
-
-🌱 Atualmente estou aprofundando meus conhecimentos em **TypeScript e Angular**.
+My area of ​​interest lies precisely at the intersection of **code and design**: I enjoy understanding how an interface works under the hood, as well as how it is perceived and used by people.
 
 ---
 
-## 🎨 Development × Design
+## Development × Design
 
 <div align="center">
 
@@ -42,24 +36,24 @@ Minha área de interesse está justamente na interseção entre **código e desi
 <tr>
 <td width="50%" align="center">
 
-### 🎨 UX/UI
+### UX/UI
 
-Prototipação,
+Prototyping,
 Wireframes,
-Design de interfaces,
-Experiência do usuário,
+Interface design,
+User experience,
 Figma
 
 </td>
 
 <td width="50%" align="center">
 
-### 💻 Development
+### Development
 
-Front-end,
-Back-end,
+Front end,
+Backend,
 APIs,
-Banco de dados,
+Database,
 WordPress
 
 </td>
@@ -70,35 +64,75 @@ WordPress
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 ### Languages & Frameworks
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nodejs,php,python&perline=9" />
-
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=DD0031)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
 
 ### Database & Tools
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode&perline=8" />
-
-</div>
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
 ### Design & Web
 
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Canva](https://img.shields.io/badge/Canva-0D1117?style=for-the-badge&logo=canva&logoColor=00C4CC)
+![WordPress](https://img.shields.io/badge/WordPress-0D1117?style=for-the-badge&logo=wordpress&logoColor=21759B)
+
+### Studying in this moment:
+I am looking to continuously strengthen my knowledge in:
+
+`TypeScript` · `Angular` · `JavaScript` · `UX/UI` · `APIs` · `Git` . `Design System`
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=figma,wordpress&perline=8" />
+```text
+    TypeScript
+    ↓
+    Angular
+    ↓
+    Front-end Development
+    ↓
+    UX/UI Design
+    ↓
+    Better interfaces + better code
+```
 
 </div>
 
 ---
+## GitHub
 
-## 🚀 Projetos
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiatamarindo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiatamarindo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=leticiatamarindo&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+## Projects
 
 <div align="center">
 
@@ -118,43 +152,6 @@ WordPress
 
 <br>
 
-
-## 📚 Atualmente aprendendo
-
-<div align="center">
-
-```text
-    TypeScript
-    ↓
-    Angular
-    ↓
-    Desenvolvimento Front-end
-    ↓
-    UX/UI Design
-    ↓
-    Interfaces melhores + código melhor
-```
-
-</div>
-
-Estou buscando fortalecer continuamente meus conhecimentos em:
-
-`TypeScript` · `Angular` · `JavaScript` · `UX/UI` · `APIs` · `Git` . `Design System`
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiatamarindo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiatamarindo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=leticiatamarindo&theme=tokyonight&hide_border=true"/>
@@ -163,7 +160,7 @@ Estou buscando fortalecer continuamente meus conhecimentos em:
 
 ---
 
-## 🐍 My contributions
+## My contributions
 
 <div align="center">
 
@@ -173,43 +170,7 @@ Estou buscando fortalecer continuamente meus conhecimentos em:
 
 ---
 
-## 💡 Um pouco mais sobre mim
-
-```javascript
-const developer = {
-    name: "leticia Tamarindo",
-
-    role: "Software Developer",
-
-    interests: [
-        "Web Development",
-        "UX/UI Design",
-        "Front-end",
-        "Back-end",
-        "Prototyping"
-    ],
-
-    currentlyLearning: [
-        "TypeScript",
-        "Angular",
-        "UX/UI"
-    ],
-
-    tools: [
-        "VS Code",
-        "Git",
-        "GitHub",
-        "Figma",
-        "WordPress"
-    ],
-
-    mindset: "Keep learning. Keep building. Keep improving."
-};
-```
-
----
-
-## 🌐 Vamos conversar?
+## Let's talk?
 
 <div align="center">
 
@@ -227,10 +188,10 @@ const developer = {
 
 <div align="center">
 
-### ✨ Thanks for stopping by!
+### Thanks for stopping by!
 
 *Let's build something meaningful with technology.*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9B1B5A&height=100&section=footer" width="100%"/>
