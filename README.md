@@ -4,7 +4,11 @@
 
 ### 💻 Software Developer  ·  🎨 UX/UI Designer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=8B7CF6&center=true&vCenter=true&width=750&lines=Transformando+ideias+em+experiências+digitais;Software+Development+%2B+UX%2FUI+Design;Building+interfaces+that+make+sense;Always+learning%2C+building+and+improving+%F0%9F%9A%80" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=8B7CF6&center=true&vCenter=true&width=750&lines=Software+Developer;UX%2FUI+Design+Enthusiast;Web+Development;Building+digital+experiences;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+
+</div>
 
 <br>
 
