@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=100&pause=1000&color=C11C84&center=true&vCenter=true&width=750&lines=Let%C3%ADcia+Tamarindo&loop=false&delete=false" alt="Typing SVG" />
 
-</div>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=D4A72C&center=true&vCenter=true&width=750&lines=Software+Developer;UX%2FUI+Design+Enthusiast;Web+Development;Building+digital+experiences;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
@@ -18,15 +16,13 @@
 
 </div>
 
----
+<br>
 
 ## Sobre mim
 
 Hi! I’m **Letícia**, a software developer passionate about technology, web development, and interface creation.
 
 My area of ​​interest lies precisely at the intersection of **code and design**: I enjoy understanding how an interface works under the hood, as well as how it is perceived and used by people.
-
----
 
 ## Development × Design
 
@@ -43,6 +39,7 @@ Wireframes,
 Interface design,
 User experience,
 Figma
+<br>
 
 </td>
 
@@ -50,8 +47,8 @@ Figma
 
 ### Development
 
-Front end,
-Backend,
+Front-end,
+Back-end,
 APIs,
 Database,
 WordPress
@@ -62,9 +59,7 @@ WordPress
 
 </div>
 
----
-
-## Tecnologias
+## Technologies
 
 ### Languages & Frameworks
 
@@ -113,7 +108,6 @@ I am looking to continuously strengthen my knowledge in:
 
 </div>
 
----
 ## GitHub
 
 <div align="center">
@@ -152,14 +146,6 @@ I am looking to continuously strengthen my knowledge in:
 
 <br>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=leticiatamarindo&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## My contributions
 
 <div align="center">
@@ -167,8 +153,6 @@ I am looking to continuously strengthen my knowledge in:
 <img src="https://raw.githubusercontent.com/leticiatamarindo/leticiatamarindo/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
-
----
 
 ## Let's talk?
 
