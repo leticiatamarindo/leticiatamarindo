@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=100&pause=1000&color=C11C84&center=true&vCenter=true&width=750&lines=Let%C3%ADcia+Tamarindo&loop=false&delete=false" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=D4A72C&center=true&vCenter=true&width=750&lines=Software+Developer;UX%2FUI+Design+Enthusiast;Web+Development;Building+digital+experiences;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=D4A72C&center=true&vCenter=true&width=750&lines=Software+Developer;UX%2FUI+Designer;Web+Development;Building+digital+experiences;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -18,7 +18,7 @@
 
 <br>
 
-## Sobre mim
+## About me
 
 Hi! I’m **Letícia**, a software developer passionate about technology, web development, and interface creation.
 
