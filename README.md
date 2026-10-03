@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=Olá,%20eu%20sou%20SEU%20NOME!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=Olá,%20eu%20sou%20a%20Letícia!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-### 💻 Software Developer  ·  🎨 UX/UI Enthusiast
+### 💻 Software Developer  ·  🎨 UX/UI Designer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=8B7CF6&center=true&vCenter=true&width=750&lines=Transformando+ideias+em+experiências+digitais;Software+Development+%2B+UX%2FUI+Design;Building+interfaces+that+make+sense;Always+learning%2C+building+and+improving+%F0%9F%9A%80" />
 
@@ -16,11 +16,11 @@
 
 ## 👩‍💻 Sobre mim
 
-Olá! Eu sou **SEU NOME**, desenvolvedora de software apaixonada por tecnologia, desenvolvimento web e criação de interfaces.
+Olá! Eu sou **Letícia**, desenvolvedora de software apaixonada por tecnologia, desenvolvimento web e criação de interfaces.
 
 Minha área de interesse está justamente na interseção entre **código e design**: gosto de entender como uma interface funciona por trás do código, mas também como ela é percebida e utilizada pelas pessoas.
 
-🎨 **UX/UI Design** — prototipação, wireframes e interfaces
+🎨 **UX/UI Design** — prototipação, wireframes, interfaces
 
 💻 **Desenvolvimento Web** — front-end e back-end
 
@@ -116,25 +116,6 @@ WordPress
 
 <br>
 
-### 📌 Projeto 01 — NOME DO PROJETO
-
-> Breve descrição do projeto, problema que ele resolve e tecnologias utilizadas.
-
-**Stack:** `Tecnologia 1` · `Tecnologia 2` · `Tecnologia 3`
-
-🔗 [Ver projeto](LINK_DO_PROJETO)
-
----
-
-### 📌 Projeto 02 — NOME DO PROJETO
-
-> Breve descrição do projeto, destacando sua contribuição no desenvolvimento ou design.
-
-**Stack:** `Tecnologia 1` · `Tecnologia 2` · `Tecnologia 3`
-
-🔗 [Ver projeto](LINK_DO_PROJETO)
-
----
 
 ## 📚 Atualmente aprendendo
 
@@ -154,7 +135,7 @@ Interfaces melhores + código melhor
 
 </div>
 
-Também estou buscando fortalecer continuamente meus conhecimentos em:
+Estou buscando fortalecer continuamente meus conhecimentos em:
 
 `TypeScript` · `Angular` · `JavaScript` · `UX/UI` · `APIs` · `Git`
 
@@ -164,9 +145,9 @@ Também estou buscando fortalecer continuamente meus conhecimentos em:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiatamarindo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiatamarindo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -174,7 +155,7 @@ Também estou buscando fortalecer continuamente meus conhecimentos em:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=leticiatamarindo&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -184,7 +165,7 @@ Também estou buscando fortalecer continuamente meus conhecimentos em:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/leticiatamarindo/leticiatamarindo/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -194,7 +175,7 @@ Também estou buscando fortalecer continuamente meus conhecimentos em:
 
 ```javascript
 const developer = {
-    name: "SEU NOME",
+    name: "leticia Tamarindo",
 
     role: "Software Developer",
 
@@ -230,15 +211,11 @@ const developer = {
 
 <div align="center">
 
-<a href="LINK_LINKEDIN">
+<a href="www.linkedin.com/in/letícia-tamarindo-a46096246">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="LINK_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:leticia.binaria@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
